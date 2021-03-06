@@ -1,0 +1,14 @@
+2021-03-06 11:33:12.273  INFO 1216 --- [restartedMain] com.example.demo4.demo.DemoApplication   : Starting DemoApplication on DESKTOP-SVKCU7Q with PID 1216 (D:\项目\communityqqq\target\classes started by lh in D:\项目\communityqqq)
+2021-03-06 11:33:12.277  INFO 1216 --- [restartedMain] com.example.demo4.demo.DemoApplication   : No active profile set, falling back to default profiles: default
+2021-03-06 11:33:12.334  INFO 1216 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : Devtools property defaults active! Set 'spring.devtools.add-properties' to 'false' to disable
+2021-03-06 11:33:12.335  INFO 1216 --- [restartedMain] .e.DevToolsPropertyDefaultsPostProcessor : For additional web related logging consider setting the 'logging.level.web' property to 'DEBUG'
+2021-03-06 11:33:17.702  INFO 1216 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat initialized with port(s): 8080 (http)
+2021-03-06 11:33:17.713  INFO 1216 --- [restartedMain] o.apache.catalina.core.StandardService   : Starting service [Tomcat]
+2021-03-06 11:33:17.714  INFO 1216 --- [restartedMain] org.apache.catalina.core.StandardEngine  : Starting Servlet engine: [Apache Tomcat/9.0.41]
+2021-03-06 11:33:17.885  INFO 1216 --- [restartedMain] o.a.c.c.C.[Tomcat].[localhost].[/]       : Initializing Spring embedded WebApplicationContext
+2021-03-06 11:33:17.885  INFO 1216 --- [restartedMain] w.s.c.ServletWebServerApplicationContext : Root WebApplicationContext: initialization completed in 5538 ms
+2021-03-06 11:33:18.292  INFO 1216 --- [restartedMain] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2021-03-06 11:33:18.381  INFO 1216 --- [restartedMain] o.s.b.a.w.s.WelcomePageHandlerMapping    : Adding welcome page template: index
+2021-03-06 11:33:18.709  INFO 1216 --- [restartedMain] o.s.b.d.a.OptionalLiveReloadServer       : LiveReload server is running on port 35729
+2021-03-06 11:33:18.762  INFO 1216 --- [restartedMain] o.s.b.w.embedded.tomcat.TomcatWebServer  : Tomcat started on port(s): 8080 (http) with context path ''
+2021-03-06 11:33:18.778  INFO 1216 --- [restartedMain] com.example.demo4.demo.DemoApplication   : Started DemoApplication in 6.962 seconds (JVM running for 10.011)
